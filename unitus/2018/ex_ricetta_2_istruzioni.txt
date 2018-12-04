@@ -1,0 +1,26 @@
+Ricetta 2
+
+L’esercizio consiste nella scrittura della ricetta senza usare lettere e altri segni tipografici. Dovrete disegnare un insieme di simboli e delle regole di assemblaggio (una ‘grammatica’) che definiscano il modo per combinare i simboli.
+Lo scopo non è quello dell’immediata leggibilità ma della rappresentazione della complessità con un numero minimo di simboli.
+	
+	Vincoli
+		Simboli
+			Ogni simbolo va disegnato in una griglia 
+			quadrata di 16x16 riquadri 
+			Ogni riquadro è fatto da 2x2 pixel
+				Il simbolo avrà dimensioni 32x32 pixel
+			Si può usare solo il nero
+		
+		Ricetta
+			Assemblare i simboli in una griglia 
+			quadrata di 32x32 riquadri
+			Ogni riquadro può contenere 
+			un simbolo o essere vuoto
+			Assemblare i simboli in una tabella 
+			html di 32x32 celle
+
+	
+
+		
+		
+		
